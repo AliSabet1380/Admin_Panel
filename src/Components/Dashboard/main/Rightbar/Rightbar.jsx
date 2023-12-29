@@ -8,7 +8,7 @@ const Rightbar = () => {
         <div className="absolute right-0 bottom-0 w-1/2 h-1/2 gap-[0.3rem]">
           <Image
             className="object-contain opacity-20"
-            src="/astronaut.png"
+            src="/astro.png"
             alt=""
             fill
           />

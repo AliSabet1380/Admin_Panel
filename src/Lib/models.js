@@ -18,7 +18,6 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
       min: 4,
-      select: false,
     },
     passwordConfirm: {
       type: String,
